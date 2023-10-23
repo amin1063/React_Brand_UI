@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/amin1063/React_Brand_UI",
+  "homepage": "https://amin1063.github.io/React_Brand_UI/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
